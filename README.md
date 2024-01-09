@@ -9,7 +9,7 @@ The Python version worked great but was slow when merging several large reports.
 This tool can be built from source using `go build`.
 
 ### Pre-compiled Binary
-Addtionally, a Windows can be found under the releases page.
+Addtionally, a Windows can be found under the [releases](https://github.com/jaxhax-travis/nessus_merger/releases) page.
 
 
 ## Usage
