@@ -13,7 +13,7 @@ Addtionally, a Windows can be found under the [releases](https://github.com/jaxh
 
 
 ## Usage
-This tool will take the reports in a directory passed to in via the `-dir` or `--dir` argument and merge them into the file specified in the `-out` or `--out` filepath (you should remeber to include the `.nessus` extension if you want to import the report back into the web UI).
+This tool will take the reports in a directory passed to in via the `-dir` or `--dir` argument and merge them into the file specified in the `-out` or `--out` filepath (you should remember to include the `.nessus` extension if you want to import the report back into the web UI).
 
 Optionally, you can provide a `-title` or `--title` argument with a string to provide a custom title on the merged report.  This is the text that the report will show up as when merged back into the web UI.  If this argument is not provided, it will use the default string of `Merged Report`.
 
